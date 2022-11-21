@@ -1,0 +1,8 @@
+Open the Uipath Studio and create a new process by clicking on the Process tab.
+Set the name of the process and give a short description then click on Create.
+Now in the activities panel search for Flowchart activity. Drag and drop it in the designer window.
+Now in the activities panel search for Open Browser activity. Add it to the sequence. Double-click on it and pass the URL in quotes.
+Click on the Data Scraping icon in the design tab. 
+Now open the URL in the browser as mentioned in the wizard and click on the Next button. 
+Click on any single field in the table, a window will appear asking if you would like to extract data from the whole table, 
+click on YES.  
